@@ -951,15 +951,19 @@ Mappings:
       Ubuntu1804: ami-005de30fe41bbe8f3
     us-east-1:
       CentOS7: ami-09d4e63ccc46083c7
+      CentOS7ARM: ami-08e21389208680129
       Ubuntu1804: ami-02a2048d0e4afcd10
     us-east-2:
       CentOS7: ami-009ac95229cc07041
+      CentOS7ARM: ami-015b21af52731cf6c
       Ubuntu1804: ami-0a1af21a7b34de8f7
     us-west-1:
       CentOS7: ami-0062ecf9cd0c8417d
+      CentOS7ARM: ami-0f972240a235c03dd
       Ubuntu1804: ami-02cfec9ab1330bcbb
     us-west-2:
       CentOS7: ami-0cbe0a37066de0538
+      CentOS7ARM: ami-00b3d361ad6a301a5
       Ubuntu1804: ami-0cc3da810abe655e0
   DBEngineMap:
     MySQL-5.7:
